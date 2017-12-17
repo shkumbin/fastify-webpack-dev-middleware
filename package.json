@@ -1,0 +1,36 @@
+{
+  "name": "fastify-webpack-dev-middleware",
+  "version": "0.1.0",
+  "description": "A fastify webpack dev middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard | snazzy && tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shkumbin/fastify-webpack-dev-middleware.git"
+  },
+  "keywords": [
+    "fastify",
+    "webpack-dev-middleware"
+  ],
+  "author": "Shkumbin Maksuti <shkumbinmaksuti@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shkumbin/fastify-webpack-dev-middleware/issues"
+  },
+  "homepage": "https://github.com/shkumbin/fastify-webpack-dev-middleware#readme",
+  "dependencies": {
+    "fastify-plugin": "^0.1.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-middleware": "^2.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "fastify": "^0.35.7",
+    "snazzy": "^7.0.0",
+    "standard": "^10.0.3",
+    "tap": "^11.0.0"
+  }
+}
