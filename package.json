@@ -1,6 +1,6 @@
 {
   "name": "fastify-webpack-dev-middleware",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A fastify webpack dev middleware",
   "main": "index.js",
   "scripts": {
