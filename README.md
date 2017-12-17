@@ -1,4 +1,4 @@
-# fastify-webpack-dev-middleware
+# (WIP) fastify-webpack-dev-middleware
 
 A fastify webpack dev middleware
 
