@@ -20,6 +20,9 @@
     "url": "https://github.com/shkumbin/fastify-webpack-dev-middleware/issues"
   },
   "homepage": "https://github.com/shkumbin/fastify-webpack-dev-middleware#readme",
+  "engines": {
+    "node": ">=4.5"
+  },
   "dependencies": {
     "fastify-plugin": "^0.1.1",
     "webpack": "^3.10.0",
